@@ -2,7 +2,7 @@ name: 'Hello World Arruda'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:
-    descriptio: 'Who to Greet'
+    description: 'Who to Greet'
     required: true
     default: World
 outputs:
